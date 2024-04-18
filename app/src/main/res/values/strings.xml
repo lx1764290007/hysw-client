@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">河源高新区水务系统客户端</string>
+    <string name="title_home">统计</string>
+    <string name="title_dashboard">设备</string>
+    <string name="title_notifications">告警</string>
+    <string name="account_hit">输入账号</string>
+    <string name="password_hit">输入密码</string>
+    <string name="login_btn_text">登录</string>
+    <string name="icon">icon</string>
+    <string name="home_chart_title">设备近期采集的数据</string>
+    <string name="home_chart_title_drop_down_text">选择一个设备</string>
+    <string name="home_marker_view_title">详情</string>
+    <string name="title_activity_no_network_permissions">NoNetworkPermissions</string>
+    <string name="network_permissions_error_text">不能连接到网络</string>
+    <string name="network_permisson_button">授予访问网络权限</string>
+    <string name="network_permission_button">去设置</string>
+    <string name="empty_text">没有数据</string>
+    <string name="alarm_count">告警统计</string>
+    <string name="degree_level_label_1">紧急</string>
+    <string name="degree_level_label_2">重</string>
+    <string name="degree_level_label_3">中</string>
+    <string name="degree_level_label_4">低</string>
+    <string name="home_pie_chart_title">传感器类型统计</string>
+    <string name="srl_header_pulling">下拉可以刷新</string>
+    <string name="srl_header_refreshing">正在刷新…</string>
+    <string name="srl_header_loading">正在加载…</string>
+    <string name="srl_header_release">释放立即刷新</string>
+    <string name="srl_header_finish">刷新完成</string>
+    <string name="srl_header_failed">刷新失败</string>
+    <string name="srl_header_update">上次更新 M-d HH:mm</string>
+    <string name="srl_header_secondary">释放进入二楼</string>
+
+    <string name="srl_footer_pulling">上拉加载更多</string>
+    <string name="srl_footer_release">释放立即加载</string>
+    <string name="srl_footer_loading">正在加载…</string>
+    <string name="srl_footer_refreshing">正在刷新…</string>
+    <string name="srl_footer_finish">加载完成</string>
+    <string name="srl_footer_failed">加载失败</string>
+    <string name="srl_footer_nothing">没有更多数据了</string>
+    <!--设备-->
+    <string name="device_number">序列号</string>
+    <string name="device_name">设备名称</string>
+    <string name="device_state">当前状态</string>
+    <string name="device_offlineDelay">掉线延迟</string>
+    <string name="device_currentVoltage">当前电量</string>
+    <string name="device_online">最新心跳时间</string>
+    <!--告警-->
+    <string name="alarm_grade">告警等级</string>
+    <string name="alarm_value">采集数据</string>
+    <string name="alarm_unit">单位</string>
+    <string name="alarm_create_time">时间</string>
+    <string name="alarm_device_name">相关设备</string>
+    <string name="alarm_sensor_name">相关传感器</string>
+    <string name="alarm_sensor_type">传感器类型</string>
+    <string name="alarm_handle">是否已处理</string>
+    <string name="alarm_trigger_remark">触发原因</string>
+    <string name="title_activity_sensor">Sensor</string>
+    <!--传感器-->
+    <string name="sensor_name">名称</string>
+    <string name="sensor_number">序列号</string>
+    <string name="sensor_unit">单位</string>
+    <string name="sensor_online">最新心跳时间</string>
+    <string name="sensor_type">类型</string>
+    <string name="sensor_state">状态</string>
+    <string name="sensor_offline_time">掉线时间</string>
+    <string name="back">返回</string>
+    <!--警告-->
+    <string name="notify_title_prefix">传感器-</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="clear_cache">清理缓存</string>
+    <string name="version">1.0.0</string>
+    <string name="app_version">APP版本</string>
+    <string name="logout">退出登录</string>
+    <string name="setting">设置</string>
+</resources>
